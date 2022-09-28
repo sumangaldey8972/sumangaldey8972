@@ -1,5 +1,8 @@
-# 💫 About Me:
-🔭 I’m Sumangal Dey, MERN developper<br>👯 I’m looking to collaborate on new interesting Projects<br>🤝 I’m looking for become a Full stack web developer<br>🌱 I’m currently learning MongoDb and React Redux <br>💬 Ask me about React <br> <a href="https://sumangaldey8972.github.io/" >Check Out My Portfolio</a>
+<img src="https://raw.githubusercontent.com/sumangaldey8972/my-repository/main/full%20stack%20photo.jpeg" alt="phtot"/>
+<h1>hi✌, I'm Sumangal Dey </h1>
+<h2>I'm a full stack developer from India </h2>
+# 💫 About Me: </br>
+🔭 I’m looking to collaborate on new interesting Projects<br></br>🤝 I’m looking for become a Full stack web developer<br></br>🌱 I’m currently learning MongoDb and React Redux <br></br>💬 Ask me about React <br></br> <a href="https://sumangaldey8972.github.io/" >Check Out My Portfolio</a>
 
 
 ## 🌐 Socials:

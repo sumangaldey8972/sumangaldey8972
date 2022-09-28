@@ -2,7 +2,8 @@
 <h1>hi✌, I'm Sumangal Dey </h1>
 <h2>I'm a full stack developer from India </h2>
 # 💫 About Me: </br>
-🔭 I’m looking to collaborate on new interesting Projects<br></br>🤝 I’m looking for become a Full stack web developer<br></br>🌱 I’m currently learning MongoDb and React Redux <br></br>💬 Ask me about React <br></br> <a href="https://sumangaldey8972.github.io/" >Check Out My Portfolio</a>
+🔭 I’m looking to collaborate on new interesting Projects<br></br>🤝 I’m looking for become a Full stack web developer<br></br>🌱 I’m currently learning MongoDb and React Redux <br></br>💬 Ask me about React <br></br> <a href="https://sumangaldey8972.github.io/" >Check Out My Portfolio</a> <br></br>
+<a href="https://drive.google.com/file/d/13zLzBbGR3IeCoWW0S3-aBdMZTlI7LOaL/view?usp=sharing" >Check Out My Resume</a>
 
 
 ## 🌐 Socials:
